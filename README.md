@@ -1,2 +1,2 @@
-# simpread
-The repository is used for the simpread.
+# Simpread
+The repository is used for Simpread.
